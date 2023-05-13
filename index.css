@@ -1,0 +1,51 @@
+.header1 {
+}
+.b1 {
+  font-size: 50px;
+  text-align: center;
+  border: 4px solid black;
+  background-color: rgb(0, 0, 0);
+  color: red;
+}
+.b2 {
+  color: rgb(255, 0, 0);
+  font-size: 35px;
+  background-color: rgb(0, 0, 0);
+  border: 5px solid rgb(255, 255, 255);
+}
+.b3 {
+  color: rgb(255, 0, 0);
+  font-size: 35px;
+  background-color: rgb(0, 0, 0);
+  border: 5px solid rgb(255, 255, 255);
+}
+.img1 {
+  display: flex;
+}
+.selection1 {
+  font-size: 50px;
+  border: 5px solid;
+  background-color: black;
+  color: white;
+}
+.b4 {
+  font-size: 45px;
+  border: 5px solid;
+  background-color: black;
+  color: white;
+}
+.jj {
+  color: red;
+  font-size: 90px;
+  animation: jj 15s infinite;
+}
+@keyframes jj {
+  0% {
+  }
+  50% {
+    color: aliceblue;
+    transform: translateX(89%);
+  }
+  100% {
+  }
+}
